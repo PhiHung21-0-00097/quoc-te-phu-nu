@@ -2,7 +2,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Gửi phụ nữ vĩ đại của gia đình | 20/11",
+  title: "Gửi phụ nữ vĩ đại của gia đình | 20/10",
   description:
     "Một khu vườn hoa nhỏ với những lời chúc yêu thương dành riêng cho gia đình.",
   themeColor: "#08091c",

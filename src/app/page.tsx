@@ -280,7 +280,7 @@ export default function Home() {
         </section>
 
         <footer className="border-t border-white/10 px-5 py-7 text-center text-xs text-slate-500">
-          Made with 💖 for our lovely family · 20/11
+          Made with 💖 for our lovely family · 20/10
         </footer>
       </div>
 
