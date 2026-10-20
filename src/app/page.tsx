@@ -255,7 +255,7 @@ export default function Home() {
                         `${person.name} 💖\n${person.wish}`
                       );
                     }}
-                    className="mt-3 text-xs text-amber-200 underline underline-offset-4"
+                    className="mt-3 text-xs text-amber-200 underline underline-offset-4 focus:text-amber-100"
                   >
                     Sao chép lời chúc
                   </button>
