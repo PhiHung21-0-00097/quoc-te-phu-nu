@@ -14,7 +14,7 @@ const family = [
     name: "Mẹ Yên",
     icon: "🌹",
     color: "from-pink-300 to-rose-200",
-    wish: "Chúc Mẹ Yên luôn xinh đẹp, trẻ trung, mạnh khỏe và gặp thật nhiều may mắn. Mong mọi điều tốt đẹp nhất sẽ đến với Mẹ, để ngày nào Mẹ cũng vui cười và cảm nhận được tình yêu thương của gia đình.",
+    wish: "Chúc Mẹ Yên luôn xinh đẹp, trẻ trung, mạnh khỏe và gặp thật nhiều may mắn. Mong mọi điều tốt đẹp nhất sẽ đến với Mẹ, để ngày nào Mẹ cũng vui cười và cảm nhận được tình yêu thương của gia đình. Đặc biệt là cảm ơn mẹ vì thùng đồ mà mẹ chuẩn bị cho con, con đi làm có xíu, mà mẹ tui đóng cho tui 1 thùng đồ ăn đầy nhóc như tui đi mấy năm ko dề á, kaka",
   },
   {
     name: "Mẹ Bằng",
