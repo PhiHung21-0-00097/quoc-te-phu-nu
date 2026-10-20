@@ -1,7 +1,7 @@
 
 "use client";
 
-import { useState } from "react";
+import { useRef, useState } from "react";
 
 const family = [
   {
@@ -71,6 +71,7 @@ export default function Home() {
   const [opened, setOpened]:any = useState(null);
   const [showAll, setShowAll] = useState(false);
   const [sparkle, setSparkle] = useState(false);
+  const audioRef = useRef<HTMLAudioElement>(null);
 
   function celebrate() {
     setSparkle(true);
@@ -80,6 +81,10 @@ export default function Home() {
       behavior: "smooth",
       block: "start",
     });
+    if (audioRef.current) {
+      audioRef.current.volume = 0.5;
+      audioRef.current.play().catch(() => {});
+    }
   }
 
   return (
@@ -340,6 +345,9 @@ export default function Home() {
           </div>
         </div>
       )}
+        <audio ref={audioRef} loop preload="auto">
+        <source src="/mylove.mp3" type="audio/mpeg" />
+      </audio>
     </main>
   );
 }
