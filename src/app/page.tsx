@@ -157,9 +157,9 @@ export default function Home() {
 
           <button
             onClick={celebrate}
-            className="glow-button mt-9 rounded-full px-8 py-4 text-sm font-bold text-[#201126] transition duration-300 hover:scale-105 active:scale-95 sm:text-base"
+            className="glow-button mt-9 rounded-full px-3 py-4 text-md font-bold text-[#201126] transition duration-300 hover:scale-105 active:scale-95 sm:text-base"
           >
-            Mở Vườn Hoa Yêu Thương ✨
+            Bấm dô đây nè mấy chế tui ơi ✨
           </button>
 
           <p className="mt-5 text-xs text-slate-400">
