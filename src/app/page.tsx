@@ -146,7 +146,7 @@ export default function Home() {
           </div>
 
           <h2 className="text-xl font-bold text-pink-100 sm:text-3xl">
-            Chúc Mừng Ngày 20 Tháng 11
+            Chúc Mừng Ngày 20 Tháng 10
           </h2>
 
           <p className="mt-5 max-w-xl text-sm leading-7 text-slate-300 sm:text-base">
