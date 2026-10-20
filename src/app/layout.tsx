@@ -8,7 +8,7 @@ export const metadata = {
   themeColor: "#08091c",
 };
 
-export default function RootLayout({ children }) {
+export default function RootLayout({ children }:any) {
   return (
     <html lang="vi">
       <body>{children}</body>
