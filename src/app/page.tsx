@@ -20,7 +20,7 @@ const family = [
     name: "Mẹ Bằng",
     icon: "🌺",
     color: "from-orange-200 to-pink-300",
-    wish: "Chúc Mẹ Bằng luôn rạng rỡ, bình an, hạnh phúc và thành công trong mọi điều Mẹ làm. Mong Mẹ luôn giữ được sự dịu dàng, tươi trẻ và có thật nhiều khoảnh khắc đáng nhớ bên những người thân yêu.",
+    wish: "Chúc Mẹ Bằng luôn rạng rỡ, bình an, hạnh phúc và thành công trong mọi điều Mẹ làm. Mong Mẹ luôn giữ được sự dịu dàng, tươi trẻ và có thật nhiều khoảnh khắc đáng nhớ bên những người thân yêu. Cảm ơn mẹ đã chăm sóc con những ngày con ở vs mẹ",
   },
   {
     name: "Mợ Nhung",
